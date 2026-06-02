@@ -1,4 +1,4 @@
-# copilot-plugins
+# copilot-plugins free 
 
 The official GitHub Copilot plugins collection ✨
 
